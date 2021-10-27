@@ -6,8 +6,8 @@ In Beta
 
 Test information
 1# Test failed
- * Fail in RegEdit arquive *
- * rebuild arquive *
+ * Fail in RegEdit arquive
+ * rebuild arquive
 
 60% Development Status
 
