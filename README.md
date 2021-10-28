@@ -10,6 +10,9 @@ Test information
  * Fail in RegEdit arquive
  * rebuild arquive
 
-60% Development Status
+2# Test 
+ * No result (status update, day 10\28\21 hour 11:50)
+
+100% Development Status
 
 In Test
