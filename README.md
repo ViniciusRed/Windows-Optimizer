@@ -4,8 +4,9 @@ This optimizer is simple but functional
 
 In Beta
 
-Optimizer2 only works on windows 10
-Optimizer for all Windows
+# Optimizer2 only works on windows 10
+
+# Optimizer for all Windows
 
 Information
 ```CSS
