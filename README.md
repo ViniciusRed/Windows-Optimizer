@@ -4,8 +4,9 @@ This optimizer is simple but functional
 
 In Beta
 
-Donate
-https://app.picpay.com/user/vinicius.almeida1
+Donate:
+
+* https://app.picpay.com/user/vinicius.almeida1
 
 # Information
 
