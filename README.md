@@ -4,6 +4,9 @@ This optimizer is simple but functional
 
 In Beta
 
+Optimizer2 only works on windows 10
+Optimizer for all Windows
+
 Information
 ```CSS
 1# Test Failed (10/27/21)
