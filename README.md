@@ -15,9 +15,13 @@ Test information
  
 Update information
 
-1# Update
+3# Update
  *Adding script to main file
+ 
+4# Info
+ *Clean Program Startup, this .bat is used to remove applications that start with Windows or programs that appear but you don't know them and don't have a directory (Warning: This file makes remove all applications that start with Windows)
+ *AutoClearTemp this program that appeared on Startup and a .bat that cleans %temp% temporary files
 
-100% Development Status
+5#100% Development Status
 
-In Test
+#00000 In Test
