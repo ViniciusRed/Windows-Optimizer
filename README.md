@@ -6,11 +6,11 @@ In Beta
 
 Test information
 
-1# Test Failed
+1# Test Failed (10/27/21)
  * Fail in RegEdit arquive
  * rebuild arquive
 
-2# Test Concluded
+2# Test Concluded (10/28/21)
  * Optimization finished successfully
  
 Update information
