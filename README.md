@@ -12,6 +12,11 @@ Test information
 
 2# Test Concluded
  * Optimization finished successfully
+ 
+Update information
+
+1# Update
+ *Adding script to main file
 
 100% Development Status
 
