@@ -6,12 +6,12 @@ In Beta
 
 Test information
 
-1# Test failed
+1# Test Failed
  * Fail in RegEdit arquive
  * rebuild arquive
 
-2# Test 
- * No result (status update, day 10\28\21 hour 11:50)
+2# Test Concluded
+ * Optimization finished successfully
 
 100% Development Status
 
