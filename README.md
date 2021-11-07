@@ -29,4 +29,34 @@ Donate:
 
 ```
 
+# Test Information (Info HWmonitor)
+
+* 1 Test 
+
+```CSS
+
+Mainboard Model	Positivo S14BW01
+
+Cooler: It does not have
+
+Processor Intel Celeron CPU N3010 1.04Ghz Code:(Braswell) 2 Cores Threads 2
+Socket 1170 BGA
+Technology 14nm 
+
+CPU Temp: Min:(30) Med:(60) Max:(85/90)
+
+CPU Clock: Min:(480Mhz) max:(2246.08Mhz)
+
+Ram: (DDR3 PC3L 800Mhz A-DATA 4 Gbytes) Clock Max:(1600.05Mhz)
+
+GPU: Intel HD Graphics Board Manuf: Shuttle Revision 35
+
+Overclock: No
+
+CPU-Z:
+
+Test on Cpu-Z 07/11/21 Time: 12:50 PM
+
+```
+
 100% Development Status
