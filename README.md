@@ -55,7 +55,11 @@ Overclock: No
 
 CPU-Z:
 
-Test on Cpu-Z 07/11/21 Time: 12:50 PM
+CPU Single Thread
+82.8
+CPU Multi Thread
+166.0
+Multi Thread Ratio 2.00
 
 ```
 
