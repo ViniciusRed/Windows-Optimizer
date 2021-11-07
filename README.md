@@ -56,7 +56,7 @@ Overclock: No
 CPU-Z:
 
 CPU Single Thread
-82.8
+83.0
 CPU Multi Thread
 166.0
 Multi Thread Ratio 2.00
