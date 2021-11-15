@@ -1,6 +1,7 @@
 @echo off
 call:IsAdmin
 reg delete "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /f
+reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /f
 exit
 
 :IsAdmin
