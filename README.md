@@ -1,5 +1,7 @@
 # Windows-Optimizer
 
+![](http://img.shields.io/badge/status-In_Progress-gren.png) ![](http://img.shields.io/badge/version-0.3-gren.png)
+
 _This optimizer is simple but functional_
 
 _In Beta_
@@ -13,5 +15,3 @@ _In Beta_
 ***
 
 >Donate: https://app.picpay.com/user/vinicius.almeida1
-
->100% Development Status
