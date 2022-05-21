@@ -1,6 +1,6 @@
 # Windows-Optimizer
 
-![](http://img.shields.io/badge/status-In_Progress-gren.png) ![](http://img.shields.io/badge/version-0.3-gren.png)
+![](http://img.shields.io/badge/status-In_Progress-gren.png) ![](http://img.shields.io/badge/version-0.3-gren.png) ![](http://img.shields.io/badge/Bug-1-red.png)
 
 _This optimizer is simple but functional_
 
