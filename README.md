@@ -1,6 +1,10 @@
 # Windows-Optimizer
 
-![](http://img.shields.io/badge/status-In_Progress-gren.png) ![](http://img.shields.io/badge/version-0.4-gren.png) ![](http://img.shields.io/badge/Bug-0-gren.png) ![](http://img.shields.io/badge/Update-1-gren.png)
+![](https://img.shields.io/badge/status-In_Progress-gren.png) 
+![](https://img.shields.io/badge/Bug-0-gren.png)
+![](https://img.shields.io/badge/Update-1-gren.png)
+![Releases](https://img.shields.io/github/v/release/ViniciusRed/Windows-Optimizer?color=gren&display_name=tag)
+![Download](https://img.shields.io/github/downloads/ViniciusRed/Windows-Optimizer/total)
 
 _This optimizer is simple but functional_
 
